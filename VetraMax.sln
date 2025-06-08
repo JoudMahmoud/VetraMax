@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetraMax.API", "VetraMax.API\VetraMax.API.csproj", "{2C259240-4EBA-46C2-9BBD-EC10D2D7999D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetraMax.Domain", "VetraMax.Domain\VetraMax.Domain.csproj", "{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetraMax.Application", "VetraMax.Application\VetraMax.Application.csproj", "{0433C666-0C4F-4A53-99F4-0979EF29C1CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetraMax.Infrastructure", "VetraMax.Infrastructure\VetraMax.Infrastructure.csproj", "{19BAB1B9-48CF-4FC3-B9C2-8ED5F8B3D962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C259240-4EBA-46C2-9BBD-EC10D2D7999D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C259240-4EBA-46C2-9BBD-EC10D2D7999D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C259240-4EBA-46C2-9BBD-EC10D2D7999D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C259240-4EBA-46C2-9BBD-EC10D2D7999D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0433C666-0C4F-4A53-99F4-0979EF29C1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0433C666-0C4F-4A53-99F4-0979EF29C1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0433C666-0C4F-4A53-99F4-0979EF29C1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0433C666-0C4F-4A53-99F4-0979EF29C1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19BAB1B9-48CF-4FC3-B9C2-8ED5F8B3D962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BAB1B9-48CF-4FC3-B9C2-8ED5F8B3D962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BAB1B9-48CF-4FC3-B9C2-8ED5F8B3D962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BAB1B9-48CF-4FC3-B9C2-8ED5F8B3D962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BE06811-E115-42ED-B8CD-A5013B8006B9}
+	EndGlobalSection
+EndGlobal
