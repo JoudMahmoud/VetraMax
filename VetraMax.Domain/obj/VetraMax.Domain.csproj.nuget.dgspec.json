@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kimo Store\\source\\repos\\VetraMax\\VetraMax.Domain\\VetraMax.Domain.csproj": {}
+    "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\VetraMax.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kimo Store\\source\\repos\\VetraMax\\VetraMax.Domain\\VetraMax.Domain.csproj": {
+    "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\VetraMax.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kimo Store\\source\\repos\\VetraMax\\VetraMax.Domain\\VetraMax.Domain.csproj",
+        "projectUniqueName": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\VetraMax.Domain.csproj",
         "projectName": "VetraMax.Domain",
-        "projectPath": "C:\\Users\\Kimo Store\\source\\repos\\VetraMax\\VetraMax.Domain\\VetraMax.Domain.csproj",
+        "projectPath": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\VetraMax.Domain.csproj",
         "packagesPath": "C:\\Users\\Kimo Store\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kimo Store\\source\\repos\\VetraMax\\VetraMax.Domain\\obj\\",
+        "outputPath": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

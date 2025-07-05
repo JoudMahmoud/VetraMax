@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "bZsH0V8ahvCSnOGoAVfeda1GSuIU8fwAoGoWIBCex6k=",
+  "Source": "VetraMax.API",
+  "BasePath": "_content/VetraMax.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VetraMax.API\\wwwroot",
+      "Source": "VetraMax.API",
+      "ContentRoot": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.API\\wwwroot\\",
+      "BasePath": "_content/VetraMax.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.API\\wwwroot\\DataSeed\\Role.json",
+      "SourceId": "VetraMax.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.API\\wwwroot\\",
+      "BasePath": "_content/VetraMax.API",
+      "RelativePath": "DataSeed/Role.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DataSeed\\Role.json"
+    }
+  ]
+}

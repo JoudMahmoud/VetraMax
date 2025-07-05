@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace VetraMax.Application.DTOs
+{
+	public class AddressDto
+	{
+		public int Latitude { get; set; }
+		public int Longitude { get; set; }
+		public string Details { get; set; }
+		public string Village { get; set; }
+		public string Center { get; set; }
+		public string City { get; set; }
+	}
+}

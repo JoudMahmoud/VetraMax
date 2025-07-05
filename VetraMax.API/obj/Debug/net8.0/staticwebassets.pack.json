@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.API\\wwwroot\\DataSeed\\Role.json",
+      "PackagePath": "staticwebassets\\DataSeed\\Role.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VetraMax.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VetraMax.API.props",
+      "PackagePath": "build\\VetraMax.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VetraMax.API.props",
+      "PackagePath": "buildMultiTargeting\\VetraMax.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VetraMax.API.props",
+      "PackagePath": "buildTransitive\\VetraMax.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
