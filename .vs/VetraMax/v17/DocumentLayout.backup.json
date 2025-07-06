@@ -3,44 +3,56 @@
   "WorkspaceRootPath": "E:\\iti\\0-project\\VetraMax\\VetraMax\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C259240-4EBA-46C2-9BBD-EC10D2D7999D}|VetraMax.API\\VetraMax.API.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C259240-4EBA-46C2-9BBD-EC10D2D7999D}|VetraMax.API\\VetraMax.API.csproj|solutionrelative:vetramax.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0433C666-0C4F-4A53-99F4-0979EF29C1CE}|VetraMax.Application\\VetraMax.Application.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.application\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0433C666-0C4F-4A53-99F4-0979EF29C1CE}|VetraMax.Application\\VetraMax.Application.csproj|solutionrelative:vetramax.application\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|solutionrelative:vetramax.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0433C666-0C4F-4A53-99F4-0979EF29C1CE}|VetraMax.Application\\VetraMax.Application.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0433C666-0C4F-4A53-99F4-0979EF29C1CE}|VetraMax.Application\\VetraMax.Application.csproj|solutionrelative:vetramax.application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0433C666-0C4F-4A53-99F4-0979EF29C1CE}|VetraMax.Application\\VetraMax.Application.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0433C666-0C4F-4A53-99F4-0979EF29C1CE}|VetraMax.Application\\VetraMax.Application.csproj|solutionrelative:vetramax.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C259240-4EBA-46C2-9BBD-EC10D2D7999D}|VetraMax.API\\VetraMax.API.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.api\\controllers\\subcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C259240-4EBA-46C2-9BBD-EC10D2D7999D}|VetraMax.API\\VetraMax.API.csproj|solutionrelative:vetramax.api\\controllers\\subcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.domain\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|solutionrelative:vetramax.domain\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.domain\\entities\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|solutionrelative:vetramax.domain\\entities\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.domain\\entities\\wallettransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|solutionrelative:vetramax.domain\\entities\\wallettransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0433C666-0C4F-4A53-99F4-0979EF29C1CE}|VetraMax.Application\\VetraMax.Application.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.application\\dtos\\insertsubcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0433C666-0C4F-4A53-99F4-0979EF29C1CE}|VetraMax.Application\\VetraMax.Application.csproj|solutionrelative:vetramax.application\\dtos\\insertsubcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.domain\\interfaces\\itraderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|solutionrelative:vetramax.domain\\interfaces\\itraderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.domain\\interfaces\\isubcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|solutionrelative:vetramax.domain\\interfaces\\isubcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C259240-4EBA-46C2-9BBD-EC10D2D7999D}|VetraMax.API\\VetraMax.API.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C259240-4EBA-46C2-9BBD-EC10D2D7999D}|VetraMax.API\\VetraMax.API.csproj|solutionrelative:vetramax.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19BAB1B9-48CF-4FC3-B9C2-8ED5F8B3D962}|VetraMax.Infrastructure\\VetraMax.Infrastructure.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.infrastructure\\repositories\\traderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19BAB1B9-48CF-4FC3-B9C2-8ED5F8B3D962}|VetraMax.Infrastructure\\VetraMax.Infrastructure.csproj|solutionrelative:vetramax.infrastructure\\repositories\\traderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.domain\\entities\\tradertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|solutionrelative:vetramax.domain\\entities\\tradertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19BAB1B9-48CF-4FC3-B9C2-8ED5F8B3D962}|VetraMax.Infrastructure\\VetraMax.Infrastructure.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BAB1B9-48CF-4FC3-B9C2-8ED5F8B3D962}|VetraMax.Infrastructure\\VetraMax.Infrastructure.csproj|solutionrelative:vetramax.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|solutionrelative:vetramax.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0433C666-0C4F-4A53-99F4-0979EF29C1CE}|VetraMax.Application\\VetraMax.Application.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0433C666-0C4F-4A53-99F4-0979EF29C1CE}|VetraMax.Application\\VetraMax.Application.csproj|solutionrelative:vetramax.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.domain\\interfaces\\itraderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|solutionrelative:vetramax.domain\\interfaces\\itraderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C259240-4EBA-46C2-9BBD-EC10D2D7999D}|VetraMax.API\\VetraMax.API.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C259240-4EBA-46C2-9BBD-EC10D2D7999D}|VetraMax.API\\VetraMax.API.csproj|solutionrelative:vetramax.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|e:\\iti\\0-project\\vetramax\\vetramax\\vetramax.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80057E1E-4C40-41AB-82B4-C2E9A0856C7F}|VetraMax.Domain\\VetraMax.Domain.csproj|solutionrelative:vetramax.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,137 +61,182 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 482,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 417,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "VetraMax.Domain\\Entities\\User.cs",
-              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "VetraMax.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T06:16:49.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegisterUserDto.cs",
-              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Application\\DTOs\\RegisterUserDto.cs",
-              "RelativeDocumentMoniker": "VetraMax.Application\\DTOs\\RegisterUserDto.cs",
-              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Application\\DTOs\\RegisterUserDto.cs",
-              "RelativeToolTip": "VetraMax.Application\\DTOs\\RegisterUserDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Title": "SubCategoryController.cs",
+              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.API\\Controllers\\SubCategoryController.cs",
+              "RelativeDocumentMoniker": "VetraMax.API\\Controllers\\SubCategoryController.cs",
+              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.API\\Controllers\\SubCategoryController.cs*",
+              "RelativeToolTip": "VetraMax.API\\Controllers\\SubCategoryController.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T05:53:39.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.API\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "VetraMax.API\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.API\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "VetraMax.API\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T03:44:23.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WalletTransaction.cs",
-              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Entities\\WalletTransaction.cs",
-              "RelativeDocumentMoniker": "VetraMax.Domain\\Entities\\WalletTransaction.cs",
-              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Entities\\WalletTransaction.cs",
-              "RelativeToolTip": "VetraMax.Domain\\Entities\\WalletTransaction.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T07:29:10.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TraderType.cs",
-              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Entities\\TraderType.cs",
-              "RelativeDocumentMoniker": "VetraMax.Domain\\Entities\\TraderType.cs",
-              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Entities\\TraderType.cs",
-              "RelativeToolTip": "VetraMax.Domain\\Entities\\TraderType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T06:17:24.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TraderRepository.cs",
-              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Infrastructure\\Repositories\\TraderRepository.cs",
-              "RelativeDocumentMoniker": "VetraMax.Infrastructure\\Repositories\\TraderRepository.cs",
-              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Infrastructure\\Repositories\\TraderRepository.cs",
-              "RelativeToolTip": "VetraMax.Infrastructure\\Repositories\\TraderRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T06:25:15.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Application\\Automapper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "VetraMax.Application\\Automapper\\MappingProfile.cs",
-              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Application\\Automapper\\MappingProfile.cs",
-              "RelativeToolTip": "VetraMax.Application\\Automapper\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T05:16:21.95Z",
+              "WhenOpened": "2025-07-06T04:44:33.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "VetraMax.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "VetraMax.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T01:34:53.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertSubCategoryDto.cs",
+              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Application\\DTOs\\InsertSubCategoryDto.cs",
+              "RelativeDocumentMoniker": "VetraMax.Application\\DTOs\\InsertSubCategoryDto.cs",
+              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Application\\DTOs\\InsertSubCategoryDto.cs",
+              "RelativeToolTip": "VetraMax.Application\\DTOs\\InsertSubCategoryDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T04:46:16.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TraderRepository.cs",
+              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Infrastructure\\Repositories\\TraderRepository.cs",
+              "RelativeDocumentMoniker": "VetraMax.Infrastructure\\Repositories\\TraderRepository.cs",
+              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Infrastructure\\Repositories\\TraderRepository.cs",
+              "RelativeToolTip": "VetraMax.Infrastructure\\Repositories\\TraderRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:34:01.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ITraderRepository.cs",
               "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Interfaces\\ITraderRepository.cs",
               "RelativeDocumentMoniker": "VetraMax.Domain\\Interfaces\\ITraderRepository.cs",
               "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Interfaces\\ITraderRepository.cs",
               "RelativeToolTip": "VetraMax.Domain\\Interfaces\\ITraderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T06:26:40.247Z",
+              "WhenOpened": "2025-07-05T21:32:50.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Application\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "VetraMax.Application\\DTOs\\CategoryDto.cs",
+              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Application\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "VetraMax.Application\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:53:02.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "VetraMax.Domain\\Entities\\Category.cs",
+              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "VetraMax.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:52:14.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "VetraMax.API\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "VetraMax.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAYwCEAAACkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T03:44:23.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 547,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Application\\Automapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "VetraMax.Application\\Automapper\\MappingProfile.cs",
+              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Application\\Automapper\\MappingProfile.cs*",
+              "RelativeToolTip": "VetraMax.Application\\Automapper\\MappingProfile.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:08:59.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubCategory.cs",
+              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Entities\\SubCategory.cs",
+              "RelativeDocumentMoniker": "VetraMax.Domain\\Entities\\SubCategory.cs",
+              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Entities\\SubCategory.cs",
+              "RelativeToolTip": "VetraMax.Domain\\Entities\\SubCategory.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:23:07.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Wallet.cs",
-              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Entities\\Wallet.cs",
-              "RelativeDocumentMoniker": "VetraMax.Domain\\Entities\\Wallet.cs",
-              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Entities\\Wallet.cs",
-              "RelativeToolTip": "VetraMax.Domain\\Entities\\Wallet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "VetraMax.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "VetraMax.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T07:29:55.259Z",
+              "WhenOpened": "2025-07-05T17:53:35.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RoleService.cs",
-              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Application\\Services\\RoleService.cs",
-              "RelativeDocumentMoniker": "VetraMax.Application\\Services\\RoleService.cs",
-              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Application\\Services\\RoleService.cs",
-              "RelativeToolTip": "VetraMax.Application\\Services\\RoleService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCEAAAA7AAAAAAAAAA==",
+              "Title": "ISubCategoryRepository.cs",
+              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Interfaces\\ISubCategoryRepository.cs",
+              "RelativeDocumentMoniker": "VetraMax.Domain\\Interfaces\\ISubCategoryRepository.cs",
+              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Interfaces\\ISubCategoryRepository.cs",
+              "RelativeToolTip": "VetraMax.Domain\\Interfaces\\ISubCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T07:52:30.312Z",
+              "WhenOpened": "2025-07-06T04:13:19.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "VetraMax.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "E:\\iti\\0-project\\VetraMax\\VetraMax\\VetraMax.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "VetraMax.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T01:33:46.313Z",
               "EditorCaption": ""
             }
           ]

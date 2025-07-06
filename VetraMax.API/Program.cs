@@ -76,6 +76,8 @@ namespace VetraMax.API
 			//Register custom services
 			builder.Services.AddScoped<RoleSeeder>();
 			builder.Services.AddScoped<ITraderRepository,TraderRepository>();
+			builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+			builder.Services.AddScoped<ISubCategoryRepository, SubCategoryRepository>();
 
 			
 
